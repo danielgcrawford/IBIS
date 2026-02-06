@@ -1,0 +1,3 @@
+[submodule "tCamSource/tCam"]
+	path = tCamSource/tCam
+	url = https://github.com/danjulio/tCam.git
