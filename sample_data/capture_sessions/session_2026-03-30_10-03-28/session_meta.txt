@@ -1,0 +1,11 @@
+started: 2026-03-30T10:03:28.632912
+session_dir: /home/fisher/projects/IBIS/ibis/data/capture_sessions/session_2026-03-30_10-03-28
+rgb_fps: 30
+rgb_bitrate: 12000000
+rgb_video_size: (1920, 1080)
+thermal_target_fps: 8.0
+thermal_chunk_frames: 300
+emissivity_percent: 95
+gain_mode: 0
+res_k: 0.01
+run_ffc_on_start: True
