@@ -11,3 +11,6 @@ data/RGB_raw/
 *.egg-info/
 build/
 dist/
+
+scripts/*backup.py
+ibis/
